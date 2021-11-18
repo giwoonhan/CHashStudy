@@ -9,6 +9,7 @@
     <Compile Remove="3.데이터 보관하기.cs" />
     <Compile Remove="4.데이터를 가공하는 연산자.cs" />
     <Compile Remove="5.코드의 흐름 제어하.cs" />
+    <Compile Remove="6.메소드로 코드 간추리기.cs" />
   </ItemGroup>
 
 </Project>
